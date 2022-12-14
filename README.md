@@ -70,4 +70,20 @@ o desenvolvimento desse projeto, tais como:
 - Agradecemos os conhecimentos passados pelo Gabriel Tsunoda
 - Agradecemos por ter finalizado mais um aprendizado de muitos que virão
 
+## Instalação e execução
+
+Faça um clone desse repositório e acesse o diretório.
+
+```bash
+$ git clone https://github.com/ItsCamyx/projectWeather.git && cd projectWeather
+```
+
+```bash
+# Instalando as dependências
+$ yarn
+
+# Executanto aplicação
+$ yarn dev
+
+```
 
